@@ -2,7 +2,8 @@ package com.example.tictactoe_game;
 
 import java.util.Random;
 import java.util.Scanner;
-
+//this is a experiment
+//this is for checking push feature
 public class Tictactoe {
     static void printboard(char[][] chart){
         System.out.println(chart[0][0] + "|" + chart[0][1]+ "|"+ chart[0][2]);
